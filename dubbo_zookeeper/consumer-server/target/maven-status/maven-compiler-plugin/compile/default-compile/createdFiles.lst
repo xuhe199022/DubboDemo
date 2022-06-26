@@ -1,0 +1,4 @@
+com\xcc\service\TicketService.class
+com\xcc\controller\UserController.class
+com\xcc\ConsumerServerApplication.class
+com\xcc\service\UserService.class
